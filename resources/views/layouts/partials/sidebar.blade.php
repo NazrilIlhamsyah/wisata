@@ -48,11 +48,11 @@
             <span class="nav-link-text ms-1">Artikel</span>
           </a>
         </li>
-        <li class="nav-item mt-3">
+        {{-- <li class="nav-item mt-3">
           <h6 class="ps-4 ms-2 text-uppercase text-xs text-white font-weight-bolder opacity-8">Account pages</h6>
         </li>
         
-         <li class="nav-item">
+        <li class="nav-item">
                 <a class="nav-link text-white" href="{{ route('logout') }}"
                 onclick="event.preventDefault();
                                 document.getElementById('logout-form').submit();">
@@ -65,7 +65,7 @@
                 <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
                     @csrf
                 </form>
-            </li>
+          </li> --}}
       </ul>
     </div>
   </aside>

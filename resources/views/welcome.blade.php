@@ -8,8 +8,8 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-10">
-                    <h6 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">Mau Liburan Kemana Nih ???</h6>
-                    <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100"><span>BANDUNGIN</span><span class="font-weight-bold"> Aja YUK</span></h2>
+                    <h6 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">Mau Cari Liburan Kemana Nih ???</h6>
+                    <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100"><span>GAZZ BANDUNG</span><span class="font-weight-bold"> Aja YUK</span></h2>
                   </div>
                 </div>
               </div>
